@@ -1,5 +1,9 @@
 # rasberry_pi_temperature
 
+Installation: 
+
+sudo apt-get install stress
+
 git clone the repository
 
 RUN: python rasberry_pi_temperature.py
